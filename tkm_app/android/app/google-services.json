@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743072731632",
+    "firebase_url": "https://medicare-d8c64.firebaseio.com",
+    "project_id": "medicare-d8c64",
+    "storage_bucket": "medicare-d8c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743072731632:android:4e3454acb023aec5eacd35",
+        "android_client_info": {
+          "package_name": "com.app.medicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743072731632-pm794s2ju3bp2n4drk2jk07gjq66hmuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXziojOhgtMrOqS0WICWqwESFvQP7dl10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743072731632-pm794s2ju3bp2n4drk2jk07gjq66hmuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
